@@ -24,3 +24,5 @@ while Start:
         print("相手："+com_ai[com]+"  あなた："+com_ai[player]+"  アイコですたね")
     else :
         print("相手："+com_ai[com]+"  あなた："+com_ai[player]+"  あなたの負け")
+
+print("やったぜ")
